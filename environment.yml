@@ -1,4 +1,4 @@
-name: NATHAN
+name: BBC_lab02
 channels:
   - defaults
 dependencies:
